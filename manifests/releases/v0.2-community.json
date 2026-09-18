@@ -9,7 +9,7 @@
   "release_date": "2026-09-18",
   "release_uuid": "ab574bcf-69af-5a0e-90b3-9edb5356f824",
   "parent_public_release": null,
-  "git_commit": "6a0713afa5853b5d02975f6b01c2ef9ea5785244",
+  "git_commit": "7cd4a7f40561e4ef8fb77e8a5096ba1065635381",
   "git_tag": "v0.2-community",
   "repository": "https://github.com/z-hstudio/usyd-campus-reconstruction",
   "license": "z-hstudio Campus Model Community License 1.0; third-party licences apply independently",
