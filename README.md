@@ -27,7 +27,7 @@ Place credits where users can reasonably find them. Renaming, remeshing, retextu
 
 ## Release status
 
-Publication preparation is in progress. **No downloadable model is represented as cleared or published until a release manifest records the final gates.** The intended current basis is P245. Large binaries belong in GitHub Release assets, not this Git history.
+The current Community Edition is published through the GitHub Releases listed in the repository. Each downloadable asset is accompanied by a release manifest and SHA256 list. The current basis is P245. Large binaries belong in GitHub Release assets, not this Git history.
 
 [Release history](HISTORY.md) · [Provenance](RIGHTS_AND_PROVENANCE.md) · [Sources](SOURCES.md) · [Public/private differences](PUBLIC_EDITION_LIMITATIONS.md) · [Contributing](CONTRIBUTING.md)
 
