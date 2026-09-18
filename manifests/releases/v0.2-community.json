@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "creator": "Manyousang Z",
+  "author": "Ziheng Huang",
+  "brand": "z-hstudio",
+  "project": "University of Sydney Camperdown / Darlington Campus 3D Reconstruction",
+  "release_version": "v0.2-community",
+  "internal_version": "v02",
+  "release_date": "2026-09-18",
+  "release_uuid": "ab574bcf-69af-5a0e-90b3-9edb5356f824",
+  "parent_public_release": null,
+  "git_commit": "6a0713afa5853b5d02975f6b01c2ef9ea5785244",
+  "git_tag": "v0.2-community",
+  "repository": "https://github.com/z-hstudio/usyd-campus-reconstruction",
+  "license": "z-hstudio Campus Model Community License 1.0; third-party licences apply independently",
+  "attribution": "Based on the original 3D campus model by Manyousang Z / z-hstudio.",
+  "status": "Approximate visual campus reconstruction. Not survey data. Independent community project; not affiliated with, endorsed by, or officially produced by the university.",
+  "artifacts": [
+    {
+      "name": "usyd-v0.2-community.glb",
+      "sha256": "cf25211f765eafb0db9c45ba550a6ab2b543c887497efb72ca24231a44702a52",
+      "bytes": 42272108
+    },
+    {
+      "name": "previews/milestones/v02-public-glb.png",
+      "sha256": "6527f6ecb943204fd6bf74133c24e76fc6d2485dd353a85cd376b46ce5a6af66",
+      "bytes": 814942
+    }
+  ],
+  "blend_sha256": null,
+  "glb_sha256": "cf25211f765eafb0db9c45ba550a6ab2b543c887497efb72ca24231a44702a52",
+  "preview_hashes": {
+    "previews/milestones/v02-public-glb.png": "6527f6ecb943204fd6bf74133c24e76fc6d2485dd353a85cd376b46ce5a6af66"
+  },
+  "rights_boundary": "Original author contributions are separately licensed; OSM ODbL and NSW CC BY data and CC0 assets retain their own rights. Restricted/reference-only assets excluded.",
+  "commercial_use": "Separate prior written commercial permission required for the author contribution; commercial permission does not waive attribution."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "creator": "Manyousang Z",
+  "author": "Ziheng Huang",
+  "brand": "z-hstudio",
+  "project": "University of Sydney Camperdown / Darlington Campus 3D Reconstruction",
+  "release_version": "v0.9.1-p245-community",
+  "internal_version": "P245",
+  "release_date": "2026-09-18",
+  "release_uuid": "510b87d4-09d9-5c00-9e7a-944c08e497b9",
+  "parent_public_release": "v0.9.1-p229-community",
+  "git_commit": "6a0713afa5853b5d02975f6b01c2ef9ea5785244",
+  "git_tag": "v0.9.1-p245-community",
+  "repository": "https://github.com/z-hstudio/usyd-campus-reconstruction",
+  "license": "z-hstudio Campus Model Community License 1.0; third-party licences apply independently",
+  "attribution": "Based on the original 3D campus model by Manyousang Z / z-hstudio.",
+  "status": "Approximate visual campus reconstruction. Not survey data. Independent community project; not affiliated with, endorsed by, or officially produced by the university.",
+  "artifacts": [
+    {
+      "name": "usyd-v0.9.1-p245-community.blend",
+      "sha256": "f70e76e7729362378e25e8e87160c15a575b34a41d30aec6bafcdae17ee37a4e",
+      "bytes": 603578493
+    },
+    {
+      "name": "usyd-v0.9.1-p245-community.glb",
+      "sha256": "5dffc76b28e926c66bd3f1a9ac9bad5b64c9548f27f073d0192b38011d8352a3",
+      "bytes": 247428412
+    },
+    {
+      "name": "osm-derived-data.zip",
+      "sha256": "756480139f7b25c5666d56ac93c3b6f1849863f61da677e03679dc2470cec7bb",
+      "bytes": 2492197
+    },
+    {
+      "name": "previews/current/P245-public-blender.png",
+      "sha256": "27d11b05a8a7467ad27176f48c3ccfcb112b53b51699e9931f482c3fa41e1306",
+      "bytes": 1427217
+    }
+  ],
+  "blend_sha256": "f70e76e7729362378e25e8e87160c15a575b34a41d30aec6bafcdae17ee37a4e",
+  "glb_sha256": "5dffc76b28e926c66bd3f1a9ac9bad5b64c9548f27f073d0192b38011d8352a3",
+  "preview_hashes": {
+    "previews/current/P245-public-blender.png": "27d11b05a8a7467ad27176f48c3ccfcb112b53b51699e9931f482c3fa41e1306"
+  },
+  "rights_boundary": "Original author contributions are separately licensed; OSM ODbL and NSW CC BY data and CC0 assets retain their own rights. Restricted/reference-only assets excluded.",
+  "commercial_use": "Separate prior written commercial permission required for the author contribution; commercial permission does not waive attribution."
+}
