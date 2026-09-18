@@ -1,0 +1,11 @@
+*.blend
+*.blend1
+*.glb
+*.fbx
+*.obj
+*.zip
+.env*
+.DS_Store
+__pycache__/
+private*/
+*.log

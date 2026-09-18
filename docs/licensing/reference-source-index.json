@@ -1,0 +1,2425 @@
+[
+  {
+    "id": "swh-upper",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.blp.com.au/wp-content/uploads/2021/02/Carousel-scaled.jpg"
+    ],
+    "license_record": "Copyright; private factual reference only, no texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "swh-garden",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.blp.com.au/wp-content/uploads/2021/02/05_Susan-Wakil-Health-Building_Brett-Boardman-scaled.jpg"
+    ],
+    "license_record": "Copyright; private factual reference only, no texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "swh-entrance",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.blp.com.au/wp-content/uploads/2021/02/04_Susan-Wakil-Health-Building_Brett-Boardman-scaled.jpg"
+    ],
+    "license_record": "Copyright; private factual reference only, no texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "carslaw-2024",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/University_of_Sydney_School_of_Mathematics_and_Statistics.jpg"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "BLP-SWH",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.blp.com.au/portfolio/susan-wakil-health-building-university-of-sydney/"
+    ],
+    "license_record": "Copyright, factual reference only; photos kept in 90_RESTRICTED",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "Wilkinson-2013",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054544.098+GMT"
+    ],
+    "license_record": "Public planning evidence, not an open photo licence; private factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "Wilkinson-garden",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://indigenous-culture-matters.sydney.edu.au/map.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "SWH-Arcadia",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://arcadiala.com.au/projects/learning-environments/susan-wakil-health-precinct-feature/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "University-SWH",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/medicine-health/about/locations-and-facilities/susan-wakil-health-building.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "Carslaw-visible-reference",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:University_of_Sydney_School_of_Mathematics_and_Statistics.jpg"
+    ],
+    "license_record": "CC BY-SA 4.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "CPC-current-reclad",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://buildcorp.com.au/project/charles-perkins-centre/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "CPC-facade-engineer",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.surfacedesign.com.au/projects/facade/charles-perkins-centre/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "CPC-massing",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://fjcstudio.com/projects/charles-perkins-centre-2/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "JFR-WSP",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.wsp.com/en-au/projects/jane-foss-russell-building-university-of-sydney"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "Law-louvres",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/study/student-life/student-news/2017/03/17/top-10-instagram-spots-on-campus.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "SWH-interior-view",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.blp.com.au/wp-content/uploads/2021/02/06_Susan-Wakil-Health-Building_Brett-Boardman-scaled.jpg"
+    ],
+    "license_record": "Copyright Brett Boardman, BLP. Factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "lees-street",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.hdrinc.com/portfolio/university-sydney-life-earth-environmental-sciences",
+      "https://www.hdrinc.com/sites/default/files/2018-11/university-of-sydney-life-earth-and-environmental-services-lees-streetscape-perspective-hdr_0.jpg"
+    ],
+    "license_record": "HDR project photography; no open licence; private factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "lees-facade",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.hdrinc.com/portfolio/university-sydney-life-earth-environmental-sciences",
+      "https://www.hdrinc.com/sites/default/files/styles/carousel_image/public/2018-11/university-of-sydney-life-earth-and-environmental-sciences-lees-exterior-staggered-facade-hdr_0.jpg"
+    ],
+    "license_record": "HDR project photography; no open licence; private factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "wilkinson-study.pdf",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/Wilkinson.pdf"
+    ],
+    "license_record": "Private factual reference; not a model texture; no redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "swh-level-plans.pdf",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-7974%2120190228T003047.935+GMT"
+    ],
+    "license_record": "Private factual reference; not a model texture; no redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "h03-heritage.pdf",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054637.024+GMT"
+    ],
+    "license_record": "Private factual reference; original pixels excluded from model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "f19-architecture.html",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectureau.com/articles/formal-geometries/"
+    ],
+    "license_record": "Private factual reference; original pixels excluded from model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-23",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://media4.architecturemedia.net/site_media/media/cache/b8/1d/b81de86fd935d40a03b10ad7654aa581.jpg"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-24",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://media3.architecturemedia.net/site_media/media/cache/8c/9a/8c9ad74896e455f2cd588ad0bb859e84.jpg"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-25",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://media5.architecturemedia.net/site_media/media/cache/e6/9b/e69ba9d44d22218785ab14c9d2d5867b.jpg"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-26",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://media4.architecturemedia.net/site_media/media/cache/d3/4b/d34b3f81142a633f37c963a9dd3731d7.jpg"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-27",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.squarespace-cdn.com/content/v1/5828f8d9b8a79bc71b30b216/1481600638084-ZES4IF3ATOPH3SBQK2G2/DSC_0242.JPG?format=500w"
+    ],
+    "license_record": "DTB photographs private factual reference only; original pixels not included in model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-28",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.squarespace-cdn.com/content/v1/5828f8d9b8a79bc71b30b216/1481600678575-BHI9E9ZNK1DJO5J6UCHF/DSC_0243.JPG?format=500w"
+    ],
+    "license_record": "DTB photographs private factual reference only; original pixels not included in model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-29",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.squarespace-cdn.com/content/v1/5828f8d9b8a79bc71b30b216/1481513590569-OCVJE6AY538DUX0KRSE1/DSC_0308.JPG?format=1000w"
+    ],
+    "license_record": "DTB factual private reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-30",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.squarespace-cdn.com/content/v1/5828f8d9b8a79bc71b30b216/1481513522296-YBGTNP6DJTRBUNI222FF/DSC_0224.JPG?format=1000w"
+    ],
+    "license_record": "DTB factual private reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "REF-00091599",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://archives-search.sydney.edu.au/nodes/view/144568"
+    ],
+    "license_record": "CC BY 4.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-grounds-appendices-2002",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/grounds-conservation-plan-appendices.pdf"
+    ],
+    "license_record": "Copyright; private factual reference only, no texture reuse",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-jd-stewart-roof",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.slateroofingaustralia.com.au/wp-content/uploads/2017/06/thumb-12-600x510.jpg"
+    ],
+    "license_record": "Copyright. Private factual reference only; not a model texture; not redistributed",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-womens-historic-wing",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.thewomenscollege.com.au/wp-content/uploads/2020/06/College-external-with-wisteria-and-flowers.jpg"
+    ],
+    "license_record": "Copyright. Private factual reference only; not a model texture; not redistributed",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-womens-sibyl-exterior",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.thewomenscollege.com.au/wp-content/uploads/2020/06/The-Sibyl-Centre-exterior-image-Gineke-de-Haan.jpg"
+    ],
+    "license_record": "Copyright. Private factual reference only; not a model texture; not redistributed",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-grounds-tree-belts",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Grounds%20CMP%20Final%20%28revised%202017%29.pdf"
+    ],
+    "license_record": "Copyright; factual reference, not redistributed as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-TKD2013-Merewether-Wentworth",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054544.098+GMT"
+    ],
+    "license_record": "Copyright; factual reference only, not model textures",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P37-WOMEN-FRONT",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.thewomenscollege.com.au/wp-content/uploads/2020/06/College-external-with-wisteria-and-flowers.jpg"
+    ],
+    "license_record": "Copyright; local factual reference only. Not a model texture or redistribution asset.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P37-SIBYL-FRONT",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.thewomenscollege.com.au/wp-content/uploads/2020/06/The-Sibyl-Centre-exterior-image-Gineke-de-Haan.jpg"
+    ],
+    "license_record": "Copyright; local factual reference only. Not a model texture or redistribution asset.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P37-WOMEN-2019-MAP",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.maths.usyd.edu.au/u/yusra/FGRConf/Sibyl.pdf"
+    ],
+    "license_record": "Copyright; local factual reference only. Not a model texture or redistribution asset.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P37-M3-SIBYL",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.m3architecture.com/projects/the-university-of-sydney-womens-college-sibyl-centre/"
+    ],
+    "license_record": "Web factual reference only; no image included in model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P37-TENSILE-SIBYL",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.tensile.com.au/project/the-womens-college-copper-panel-facade/"
+    ],
+    "license_record": "Web factual reference only; no image included in model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P38-HERITAGE-WOMENS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://apps.environment.nsw.gov.au/dpcheritageapp/ViewHeritageItemDetails.aspx?ID=5055964"
+    ],
+    "license_record": "Factual reference; photos local reference only, not textures or GLB media",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P39-MACLEAY-HDR",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www1.library.sydney.edu.au/about/news/new-hdr-lounge"
+    ],
+    "license_record": "Institutional factual visual reference only; photograph not used as texture or included in GLB",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P39-HAMS2018",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Uni%20of%20Sydney_HAMS_Jan%202018.pdf"
+    ],
+    "license_record": "Factual reference only; no historical image mapped onto geometry",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P40-SCIENCE-BRIDGE-WEST",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://glebewalks.com.au/?tb_walk_stop=war-memorial-arch"
+    ],
+    "license_record": "All rights reserved; local factual reference only, no texture use or redistribution in model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P43-PHYSICS-2024",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://i0.wp.com/inlandastrotrail.com/wp-content/uploads/2025/01/844ca4af-76ac-4ca8-9e61-ed43f5bd3d2f_1_105_c.jpeg?ssl=1",
+      "https://i0.wp.com/inlandastrotrail.com/wp-content/uploads/2025/01/a3c4674e-e083-49ae-8a16-b160b2190e2d_1_105_c.jpeg?ssl=1",
+      "https://i0.wp.com/inlandastrotrail.com/wp-content/uploads/2025/01/f3eff623-bfd7-4a62-b1df-7a637aff8f35_1_105_c.jpeg?ssl=1",
+      "https://inlandastrotrail.com/physics-building/",
+      "https://inlandastrotrail.com/wp-content/uploads/2025/01/c33d1ab9-e55c-47b5-9f22-60c11ee0cdb6_1_105_c.jpeg"
+    ],
+    "license_record": "Copyright retained; no source pixels used as textures or included in GLB",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P43-PHYSICS-PLAN",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/faculty-of-science/research/physics/physics-art-project-map-a28-v2.pdf"
+    ],
+    "license_record": "Institutional source; local factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P43-PHYSICS-GBA2012",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-5087%2120190226T090832.895+GMT"
+    ],
+    "license_record": "Professional heritage report; local factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P43-WOOLLEY-GLEBE",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://glebewalks.com.au/?tb_walk_stop=woolley-building-previously-known-as-the-new-peter-nichol-russell-building",
+      "https://glebewalks.com.au/wp-content/uploads/2014/05/Stop-8.jpg"
+    ],
+    "license_record": "All rights reserved; local reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P44-PHYSICS-LANDSCAPE-2002",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/grounds-conservation-plan.pdf"
+    ],
+    "license_record": "Institutional publication, historical factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P44-CONCRETE-REUSE",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "urls": [
+      "https://polyhaven.com/a/granular_concrete"
+    ],
+    "license_record": "CC0-1.0",
+    "distribution": "Only matching hash-approved image assets may be included; see texture-rights.json."
+  },
+  {
+    "id": "V091-P45-J03-APPROVED",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-8636%2120190311T201630.713+GMT"
+    ],
+    "license_record": "Public planning reference; no texture/asset redistribution permission asserted",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P45-F23-PLANS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-7055%2120190227T094036.512+GMT"
+    ],
+    "license_record": "Reference only; not packed or exported",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P45-ASBUILT-PHOTOS",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright reference only; original photographs/PDF pages not used as textures or exported",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P46-HAMS-WOOLLEY",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Uni%20of%20Sydney_HAMS_Jan%202018.pdf"
+    ],
+    "license_record": "Factual reference only; no PDF pixels packed or exported",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P46-WOOLLEY-2019",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:John_Woolley_Building_at_The_University_of_Sydney.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/John_Woolley_Building_at_The_University_of_Sydney.jpg/1280px-John_Woolley_Building_at_The_University_of_Sydney.jpg"
+    ],
+    "license_record": "CC BY-SA 3.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P47-ENGINEERING2013",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Existing project reference only; original pages not packed or exported",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P47-GRASS004",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "urls": [
+      "https://ambientcg.com/view?id=Grass004"
+    ],
+    "license_record": "CC0",
+    "distribution": "Only matching hash-approved image assets may be included; see texture-rights.json."
+  },
+  {
+    "id": "V091-P47-MIDDAY",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "urls": [
+      "https://polyhaven.com/a/kloppenheim_03_puresky"
+    ],
+    "license_record": "CC0",
+    "distribution": "Only matching hash-approved image assets may be included; see texture-rights.json."
+  },
+  {
+    "id": "V091-P48-LANDSCAPE2020",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=RFI-9153825%2120200920T023041.821+GMT"
+    ],
+    "license_record": "Public planning reference; no open media redistribution licence established. Reference-only; no source image pixels packed as textures.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P48-J13-2013",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Reference-only; no photography pixels used as model textures",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P48-COX-CURRENT",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.coxarchitecture.com.au/project/university-of-sydney-engineering-and-technology-precinct-stage-1/"
+    ],
+    "license_record": "Reference-only; no reuse as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P49-WALLACE-GLEBE",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://glebewalks.com.au/?tb_walk_stop=wallace-theatre"
+    ],
+    "license_record": "Reference-only copyrighted public photograph; no source pixels embedded as textures",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P49-A18-EXCLUDED",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://lipman.com.au/projects/university-of-sydney-arts-psychology-building/"
+    ],
+    "license_record": "Reference-only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P50-CPC-FJMT-elevations",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://graphisoft.com/content/uploads/case-studies/GRAPHISOFT_CaseStudy_fjmt.pdf"
+    ],
+    "license_record": "Copyright FJMT/photographers/Graphisoft. Private factual reference only; not applied as texture or redistributed in model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P51-Ford-Belmadar",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.belmadar.com.au/edward-ford-building"
+    ],
+    "license_record": "Belmadar copyright reference only; not texture, not included in GLB",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P52-HAMS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Uni%20of%20Sydney_HAMS_Jan%202018.pdf"
+    ],
+    "license_record": "University copyright; local reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P52-Bank-DTB",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.dtbarchitects.com.au/heritage-and-conservation"
+    ],
+    "license_record": "DTB copyright; local reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P52-Bank-2019",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:Sydney_University_160619_Pharmacy_and_bank_building_-_gnangarra.jpg"
+    ],
+    "license_record": "CC BY2.5Australia https://creativecommons.org/licenses/by/2.5/au/",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P52-Glebe-Badham",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://glebewalks.com.au/?tb_walk_stop=badham-building-originally-the-physics-building"
+    ],
+    "license_record": "Glebe Society copyright; local reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P52-Glebe-Pharmacy",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://glebewalks.com.au/?tb_walk_stop=pharmacy-building"
+    ],
+    "license_record": "Glebe Society copyright; local reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P53-Bank-DTB-drawings",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.dtbarchitects.com.au/heritage-and-conservation"
+    ],
+    "license_record": "DTB copyright; local factual reference only, not copied texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P54-ROAD-SURFACE-SEMANTICS",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "urls": [
+      "https://wiki.openstreetmap.org/wiki/Tag:surface%3Dpaved"
+    ],
+    "license_record": "Original OSM ODbL attribution retained; existing Poly Haven CC0 asphalt PBR reused",
+    "distribution": "Only matching hash-approved image assets may be included; see texture-rights.json."
+  },
+  {
+    "id": "P71-HAMS-MCMASTER",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Uni%20of%20Sydney_HAMS_Jan%202018.pdf"
+    ],
+    "license_record": "University report and embedded archival material: retained as restricted reference; not redistributed as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P71-ROUNDHOUSE-LSJ",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.lsjarchitects.com/interpretation/vet-round-house/"
+    ],
+    "license_record": "Copyright architectural project photograph; restricted reference only, not used as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P72-SPORT-FACILITIES",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://susf.com.au/our-facilities/"
+    ],
+    "license_record": "Institutional text used as factual reference, not texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P72-SPORT-GROUNDS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://susf.com.au/grounds-notices/"
+    ],
+    "license_record": "Institutional factual reference",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P72-MANNING-TENNIS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://susf.com.au/join-a-club/tennis-club/"
+    ],
+    "license_record": "Institutional factual reference",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P73-EXISTING-FOOTWAY",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "OpenStreetMap ODbL; contributors attribution retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P74-HAMS-OLDSCHOOL",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Uni%20of%20Sydney_HAMS_Jan%202018.pdf"
+    ],
+    "license_record": "Restricted visual reference; no embedded photograph redistributed as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P74-OLDSCHOOL-PHOTO-1",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://s3.studentvip.com.au/photos/building-view-from-cardigal-gree-196630-small.jpg"
+    ],
+    "license_record": "Photographer and reuse license not established; local factual reference only, no photo texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P74-OLDSCHOOL-PHOTO-2",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://s3.studentvip.com.au/photos/building-view-from-maze-cresent-196637-small.jpg"
+    ],
+    "license_record": "Photographer and reuse license not established; local factual reference only, no photo texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P74-OLDSCHOOL-PHOTO-3",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://s3.studentvip.com.au/photos/entrance-from-cardigal-green-196640-small.jpg"
+    ],
+    "license_record": "Photographer and reuse license not established; local factual reference only, no photo texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P74-OLDSCHOOL-MAP",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.sydney.edu.au/?buildingId=1005256"
+    ],
+    "license_record": "Existing OSM ODbL attribution retained; institutional map naming reference",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P75-MILLS-2024",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://open.sydneyuniversitypress.com.au/files/9781742105093.pdf"
+    ],
+    "license_record": "Copyright contributors and University2024; local factual visual reference only, not photo texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P75-MILLS-TOUR",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://tmatic.travel/en/view/story/rc-mills-building_8h9n5R0/en"
+    ],
+    "license_record": "Restricted visual reference; no texture/republication permission established",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P76-FASS-DA2000",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-7081%2120190227T095255.428+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P76-FASS-BUILT",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectus.com.au/projects/faculty-of-arts-social-sciences/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P76-FASS-FDC",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.fdcbuilding.com.au/projects/fass/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P76-FASS-MAP",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.sydney.edu.au/?buildingId=1005094"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P76-RDWATT-ARCHIVAL",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-7081%2120190227T095247.576+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P77-OSM-FOOTWAY-CONNECTIONS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.openstreetmap.org/copyright"
+    ],
+    "license_record": "OpenStreetMap ODbL 1.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P78-wesley-entry",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://cdn.sanity.io/images/ev8ote6f/production/a096df32e5f1ae68affb4cd70edb41d21d9e9e76-5045x7564.jpg?auto=format&fit=max&q=80&w=1200",
+      "https://www.pmdl.com.au/projects/wesley-college-the-attic"
+    ],
+    "license_record": "Copyright; private factual reference only. Not included as texture or redistributed.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P78-wesley-exterior",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://cdn.sanity.io/images/ev8ote6f/production/ac41e97ef2d460e271a4c4763cacf134042c91f8-7727x5154.jpg?auto=format&fit=max&q=80&w=1600",
+      "https://www.pmdl.com.au/projects/wesley-college-the-attic"
+    ],
+    "license_record": "Copyright; private factual reference only. Not included as texture or redistributed.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P78-wesley-front",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://cdn.prod.website-files.com/68d38840601640cc72cc6ea0/69ce0102cb120ca115a68917_1%201922%20Opening%20of%20Callaghan%20Wing%2025-2-1922.webp\nHistorical reference only, not texture.",
+      "https://www.wesleycollege-usyd.edu.au/why-wesley/our-history"
+    ],
+    "license_record": "Copyright; private factual reference only. Not included as texture or redistributed.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P78-wesley-purser",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://cdn.prod.website-files.com/68d38840601640cc72cc6ea0/697c372511b6362c61786574__V8A2616.avif",
+      "https://www.wesleycollege-usyd.edu.au/why-wesley/our-history"
+    ],
+    "license_record": "Copyright; private factual reference only. Not included as texture or redistributed.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P78-wesley-sutherland",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://cdn.prod.website-files.com/68d38840601640cc72cc6ea0/69d722f06f65073a0b35c93c_Sutherland%20Wing.webp\nHistorical reference only, not texture.",
+      "https://www.wesleycollege-usyd.edu.au/why-wesley/our-history"
+    ],
+    "license_record": "Copyright; private factual reference only. Not included as texture or redistributed.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-a22-arm",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://armarchitecture.com.au/projects/sydney-college-of-the-arts-relocation/",
+      "https://armarchitecture.com.au/wp-content/uploads/2019/07/Sydney-Uni-Teachers-College.jpg"
+    ],
+    "license_record": "Copyright factual reference only; not texture or redistributed image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-j15-1CAROUSEL7-1800x892",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://buildcorp.com.au/wp-content/uploads/2024/08/Buildcorp_Education_NewBuild_USydSSB_1CAROUSEL7-1800x892.jpg"
+    ],
+    "license_record": "Copyright factual reference only; not texture or redistributed image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-j15-2CAROUSEL1-980x1161",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://buildcorp.com.au/wp-content/uploads/2024/08/Buildcorp_Education_NewBuild_USydSSB_2CAROUSEL1-980x1161.jpg"
+    ],
+    "license_record": "Copyright factual reference only; not texture or redistributed image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-j15-built-1",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://buildcorp.com.au/project/university-of-sydney-shepherd-street-building/",
+      "https://buildcorp.com.au/wp-content/uploads/2024/08/Buildcorp_Education_NewBuild_USydSSB_1CAROUSEL1-1800x892.jpg"
+    ],
+    "license_record": "Copyright factual reference only; not texture or redistributed image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-j15-built-2",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://buildcorp.com.au/project/university-of-sydney-shepherd-street-building/",
+      "https://buildcorp.com.au/wp-content/uploads/2024/08/Buildcorp_Education_NewBuild_USydSSB_1CAROUSEL2-1800x892.jpg"
+    ],
+    "license_record": "Copyright factual reference only; not texture or redistributed image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-j15-wsce",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.wsce.com.au/project/uni-of-sydney-j15-shepherd-street/",
+      "https://www.wsce.com.au/wp-content/uploads/2024/03/university-of-sydney-shepherd-street-building.jpg"
+    ],
+    "license_record": "Copyright factual reference only; not texture or redistributed image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-official-j15",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright factual reference only; not texture or redistributed image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P79-J15-OFFICIAL",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/engineering/about/engineering-technology-precinct.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P80-A22-ARM",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://armarchitecture.com.au/projects/sydney-college-of-the-arts-relocation/",
+      "https://armarchitecture.com.au/wp-content/uploads/2019/07/Sydney-Uni-Teachers-College.jpg"
+    ],
+    "license_record": "Copyright factual reference only, not texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P80-A22-MAP",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P80-ROSE-URBIS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-8636%2120190224T060630.833+GMT"
+    ],
+    "license_record": "Copyright factual reference only; not a texture or redistribution asset",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P81-FJMT-LAW",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.archdaily.com/109736/faculty-of-law-university-of-sydney-fjmt"
+    ],
+    "license_record": "Copyright private factual reference only; no image textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P81-LAW-RECLAD2024",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.networkarchitectural.com.au/projects/f10-new-law-building/"
+    ],
+    "license_record": "Copyright factual reference only, no image texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P81-LAW-OSM",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "OpenStreetMap contributors / ODbL, existing attribution retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-1",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectus.com.au/projects/sydney-nanoscience-hub/"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-2",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectus.com.au/wp-content/uploads/2019/08/sa-edu-Sydney-Nanoscience-Hub-01_website_keyimage.jpg"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-3",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectus.com.au/wp-content/uploads/2019/08/sa-edu-Sydney-Nanoscience-Hub-03-1600x1067.jpg"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-4",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectus.com.au/wp-content/uploads/2019/08/sa-edu-Sydney-Nanoscience-Hub-04-1-1600x1066.jpg"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-5",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.dickensarchitects.com/australian-institute-of-nanoscience"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-6",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.dickensarchitects.com/australian-institute-of-nanoscience"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-7",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectus.com.au/wp-content/uploads/2019/08/sa-edu-Sydney-Nanoscience-Hub-15-1600x750.jpg"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P86-REF-8",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-5087%2120190226T090832.895+GMT"
+    ],
+    "license_record": "Reference only; not texture redistribution; original rights retained",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P87-1",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sanctasophiacollege.edu.au/live-at-sancta/undergraduates/accommodation-options"
+    ],
+    "license_record": "Copyright reference only; no source photo textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P87-2",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sanctasophiacollege.edu.au/venue-hire-short-stays/conference-events"
+    ],
+    "license_record": "Copyright reference only; no source photo textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P87-3",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sanctasophiacollege.edu.au/assets/main/_1200x627_crop_center-center_none/2018-05-17_SanctaSophia_337.jpg"
+    ],
+    "license_record": "Copyright reference only; no source photo textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P87-4",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sanctasophiacollege.edu.au/assets/main/_AUTOxAUTO_crop_center-center_none/72036/2018-05-17_SanctaSophia_333.webp"
+    ],
+    "license_record": "Copyright reference only; no source photo textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P87-5",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sanctasophiacollege.edu.au/assets/main/_AUTOxAUTO_crop_center-center_none/74403/SS_buildings_260305_033.webp"
+    ],
+    "license_record": "Copyright reference only; no source photo textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "V091-P87-6",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sanctasophiacollege.edu.au/assets/main/_AUTOxAUTO_crop_center-center_none/79213/2019-08-31_SanctaSophia_OpenDay_036_Pano.webp"
+    ],
+    "license_record": "Copyright reference only; no source photo textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P88-Kane-built-grandstand",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.kane.com.au/assets/6.09_Kane_Sports-Leisure_2017_BROCHURE.-rev-3.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P88-Grandstand-mapped-identity",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.sydney.edu.au/?buildingId=1005143"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P88-SUSF-grandstand-history",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://susf.com.au/incs/uploads/2020/10/12723_SYDNUNSP_ROAR_MAG_EDITION_28_web.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P89-B22-heritage-2013",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054548.733+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P89-B22-grandstand-site-2014",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://eplanning.cityofsydney.nsw.gov.au/Common/Integration/FileDownload.ashx?ext=PDF&filesize=1589856&id=%21%21dgpuWqe53veV0NyHSTncjMrjcjKawn00E5xs6w%3D%3DZKXONm2%2Flw%3D%3D&modified=2014-09-09T10%3A03%3A58Z"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P90-veterinary-heritage-2013-p42",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054548.733+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P91-G12-RPS2018",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-7539%2120190305T000658.290+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P91-G12-location-0",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/students/lost-property.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P91-G12-location-1",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/about-us/affiliates-and-contractors/contractors.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P91-G12-location-2",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054508.239+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P92-H71-plan2012",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=MP07_0158%2120190821T023259.895+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P92-H71-completed-architect",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.nettletontribe.com.au/project/university-of-sydney-abercrombie-street/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P92-H71-official-location",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/study/accommodation/camperdown-darlington/university-residences/abercrombie.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P92-H71-asbuilt2015-0",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.squarespace-cdn.com/content/v1/5582072de4b05b7df1683561/1444342720764-ZMKUQON96R9IZVWSVNU6/Architectural+Photography+UNSW+student+accomodation+John+Holland+Abercrombie-5305.jpg",
+      "https://steveback.com.au/blog/holland-uos-abercrombie"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P92-H71-asbuilt2015-2",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.squarespace-cdn.com/content/v1/5582072de4b05b7df1683561/1444342734919-53XHTL7IDWIVAA8557W5/Architectural+Photography+UNSW+student+accomodation+John+Holland+Abercrombie-5755.jpg",
+      "https://steveback.com.au/blog/holland-uos-abercrombie"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P92-H71-asbuilt2015-4",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.squarespace-cdn.com/content/v1/5582072de4b05b7df1683561/1444342420636-VXVQDO6PBSRXNG9692TL/Architectural+Photography+UNSW+student+accomodation+John+Holland+Abercrombie-5327.jpg",
+      "https://steveback.com.au/blog/holland-uos-abercrombie"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P93-Centenary-official2023",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.centenary.org.au/wp-content/uploads/2023/09/Centenary-Institute-Student-Project-Booklet_PhD-Honours-Masters.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P93-Centenary-location",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.centenary.org.au/about/corporate-information/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P93-Centenary-CPC-context",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P94-IH-2018",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/international-house/magazine/international-house-magazine-june-2018.pdf"
+    ],
+    "license_record": "Copyright remains with University/credited architect; local factual modelling reference only, not distributed texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P94-IH-HIS-2013",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054544.098+GMT"
+    ],
+    "license_record": "Copyright remains with University/credited architect; local factual modelling reference only, not distributed texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P94-IH-CURRENT-STATUS",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/international-house/"
+    ],
+    "license_record": "Referenceonly",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P95-STANDREWS-CURRENT-HERITAGE",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://eplanning.cityofsydney.nsw.gov.au/Common/Integration/FileDownload.ashx?ext=PDF&filesize=4047916&id=%21%21EuWfxBFtIGxqezKbz7DbJ6Ogh3Oy5b8qYFYggg%3D%3DXcXsIffHLZI%3D&modified=2024-07-16T02%3A36%3A46Z"
+    ],
+    "license_record": "Reference only; copyrighted publication/photos not redistributed as textures",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P96-THYNE-OFFICIAL",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Reference only; no photographic textures in exports",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P94-STANDREWS-HERITAGE",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Reference only; no photographic textures in exports",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P96-AJC-TRL",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectsajc.com/project/st-andrews-college-thyne-reid-link-building/"
+    ],
+    "license_record": "Reference only; no photographic textures in exports",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P97-J08-HERITAGE2013",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Reference only; not used as image texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P98-DTB-ROOF",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.dtbarchitects.com.au/industrial"
+    ],
+    "license_record": "Reference only, no source photos used as textures",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P99-ANDERSON-GABLES",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.dtbarchitects.com.au/industrial"
+    ],
+    "license_record": "Photographs reference-only; no source pixels in models",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P100-H02-HAMS",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Reference-only, no photographic texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P101-Regiment",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P102-StAndrew-front",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright factual reference only, no photographic texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P103-SWH-level8",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright factual architectural reference only; no image texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P104-H03-front",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "CC BY-SA4.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P105-Mandelbaum-primary-submission",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=EXH-2349%2120190821T034350.751+GMT"
+    ],
+    "license_record": "Copyright private factual reference; source images not exported",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P105-Mandelbaum-official-banner",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.mandelbaum.usyd.edu.au/mbh2020/wp-content/uploads/2016/01/bg.jpg"
+    ],
+    "license_record": "Copyright reference only; tinted image not colour reference or texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P106-Baxter-Cardno",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/chau-chak-wing/construction/80518071-lo01-sydney-uni-dilapidation-survey-20180508-combined.pdf"
+    ],
+    "license_record": "Copyright factual reference only, no photograph texture or redistributed source image",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P107-AJC-Reid-added-floor",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://architectsajc.com/project/st-andrews-college-thyne-reid-link-building/"
+    ],
+    "license_record": "Copyright reference only; no source pixels in textures/export",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P107-Reid1957-layout",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright factual reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P108-SULTC-pavilion-aerial",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sultc.net/history"
+    ],
+    "license_record": "Copyright reference only; no source image used as texture or exported",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P108-University-Colvin2025",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/news-opinion/news/2025/11/12/from-memory-to-match-point.html"
+    ],
+    "license_record": "Factual text reference",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P109-ground-reference",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054555.271+GMT",
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/grounds-conservation-plan.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P110-Council2014",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://meetings.cityofsydney.nsw.gov.au/Data/Central%20Sydney%20Planning%20Committee/20141204/Agenda/141204_CSPC_ITEM04.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P111-Angus-Council2014",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P112-Dougan-Council2014",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P113-SUV-CLV2022",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P114-SUV-operator",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P115-Bligh-Precaster31",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.nationalprecast.com.au/wp-content/uploads/2015/09/Precaster-31.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P116-SUV-orientation-audit",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P117-A13-current-state-conflict",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://eplanning.cityofsydney.nsw.gov.au/Common/Integration/FileDownload.ashx?ext=PDF&filesize=109403&id=%21%21FRkv70%2BXMOH%2BEont67Jx7OP7mdn%2FRxjmWKpQsw%3D%3DpuvfbZrdBTk%3D&modified=2025-11-25T21%3A26%3A19Z"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P120-City-Road-lanes",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "OSM contributors ODbL; retained project source records apply",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P121-opposite-lanes",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P122-village-upper-masonry",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Reference only; source image pixels not used as textures or redistributed in model",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P123-candidate-evidence-triage",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054544.756+GMT",
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054559.065+GMT",
+      "https://www.sydney.edu.au/students/faith-religion.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P124-terrace-roofs",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Reference only; images not embedded in model or used as textures",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P125-Hintze-courtyard-reconstruction",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://northrop.com.au/wp-content/uploads/2025/04/SJC-044-2.jpg",
+      "https://northrop.com.au/wp-content/uploads/2025/04/SJC-058.jpg",
+      "https://northrop.com.au/wp-content/uploads/2025/04/SJC-067.jpg"
+    ],
+    "license_record": "Northrop copyright/reference only; no source photo pixels embedded in model or used as textures. Existing shared material library and simple material colours used.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P126-Pavilion-source-triage",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P127-cityroad-central-gap",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:City_Road,_Sydney.jpg",
+      "https://meetings.cityofsydney.nsw.gov.au/Data/Planning%20and%20Development%20Committee/201302181403/Agenda/130218_PDC_ITEM11.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P128-B03-reconstruction",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054548.733+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P129-SWH-facade-family",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright factual reference only. No reference photos used in texture maps; existing assets and raw source unchanged.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P130-CPC-current-NW",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright. Three targeted photos retained for factual reference only. Not texture input, no source-photo redistribution in GLB.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P131-CPC-NE-paired-cores",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright factual references only; no photo textures or redistribution in GLB",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P132-CPC-NE-secondary-wing",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Copyright sources factual reference only. No photo texture or source image redistribution.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P133-CPC-atrium-roof",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P134-Regiment-CityRoad-lower-facade",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P135-Regiment-planning-roof-rebuild",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P136-ovals-local-heritage",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054548.733+GMT"
+    ],
+    "license_record": "Copyright source; factual visual reference only, no pixels used as model texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P137-SUV-two-exteriors",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P138-Childcare-SandRoll",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P139-Union-Childcare",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P140-F18-Gatekeepers-Lodge",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Uni%20of%20Sydney_HAMS_Jan%202018.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P141-CityRoad-SW-lanes",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P142-A30-Arena-exterior",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://susf.com.au/files/2022/01/18811_SYDUNI_2022-Brochures_Price-Cards_DL.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P143-Brennan-south-2023",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:Palestinian_Flag_at_Brennan_Maccallum_Building_in_USYD_(2023).jpg",
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "license_record": "CC BY 4.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P144-H10-rear",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://archives-search.sydney.edu.au/nodes/view/144568",
+      "https://gopray.com.au/place/darlington-university-sydney-musalla/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P145-Graduate-House",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:SanctaSofiaNettletonTribe-Jan-31-2014-0078-Version-2.jpg",
+      "https://farrellcoyne.com.au/projects/",
+      "https://maps.sydney.edu.au/?buildingId=1005185",
+      "https://www.sanctasophiacollege.edu.au/assets/main/_AUTOxAUTO_crop_center-center_none/74403/SS_buildings_260305_033.webp",
+      "https://www.sanctasophiacollege.edu.au/live-at-sancta/postgraduates/accommodation-options"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P146-Holme-Courtyard-Cafe",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://usu.edu.au/food-drink/courtyard/",
+      "https://www.33parallel.com.au/holme-building"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P147-Valentine-Charlton-west-wing",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054548.733+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P148-Evelyn-North",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-6123%2120190227T054548.733+GMT"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P149-Albert-LSJ",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.lsjarchitects.com/project-category/albert-wing-of-st-pauls-college-university-of-sydney/"
+    ],
+    "license_record": "Copyright architect, reference only; not exported",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P149-Albert-official",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.stpauls.edu.au/ave-atque-vale-robert-otto-albert/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P149-Albert-map",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.stpauls.edu.au/wp-content/uploads/2023/04/A-Brief-Guide-to-Graduate-House-Version-6.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P150-terraces-SCA-exterior.jpg",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://samcrawford.wpenginepowered.com/wp-content/uploads/2025/09/Darlington-Terraces-fullwidth.jpg"
+    ],
+    "license_record": "Copyright reference only; not exported texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P150-terraces-SCA-plan1.jpg",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://samcrawford.wpenginepowered.com/wp-content/uploads/2025/08/01_Darlington-Terraces.jpg"
+    ],
+    "license_record": "Copyright reference only; not exported texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P150-terraces-SCA-plan2.jpg",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://samcrawford.wpenginepowered.com/wp-content/uploads/2025/08/02_Darlington-Terraces.jpg"
+    ],
+    "license_record": "Copyright reference only; not exported texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P150-terraces-heritage.pdf",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-7539%2120190305T000653.555+GMT"
+    ],
+    "license_record": "Copyright reference only; not exported texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P150-official-points",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.sydney.edu.au/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P150-SCA-project",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://samcrawfordarchitects.com.au/project/darlington-terraces-student-living"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P150-road-osm",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.openstreetmap.org/way/1382749288"
+    ],
+    "license_record": "ODbL, OpenStreetMap contributors",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P151-house-unilodge-exterior.png.source",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://image-tc.galaxy.tf/wipng-dpevck1y0lctuyex92jx85m3l/10_wide.png?crop=0%2C0%2C800%2C450&rotate=0"
+    ],
+    "license_record": "Copyright operator; reference only, not exported texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P151-house-unilodge-roof.jpg.source",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://image-tc.galaxy.tf/wijpeg-de9z6g265k7so82eeh7nwisrg/rooftop-common-area_wide.jpg?crop=0%2C0%2C800%2C450"
+    ],
+    "license_record": "Copyright operator; reference only, not exported texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P151-house-unilodge-second.png.source",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://image-tc.galaxy.tf/wipng-dqkvzakyk61u83ef20ncbgtz3/9_wide.png?crop=0%2C0%2C800%2C450&rotate=0"
+    ],
+    "license_record": "Copyright operator; reference only, not exported texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P151-University-H66",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/study/accommodation/camperdown-darlington/university-residences/darlington-house.html"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P151-H66-existing2018",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-7539%2120190305T000658.290+GMT"
+    ],
+    "license_record": "Copyright reference only, not texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P151-footprint",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "OpenStreetMap contributors, ODbL",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P151-storey-description-conflict",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P152-Holme-CMP-2002-excerpt.pdf.source",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://eplanning.cityofsydney.nsw.gov.au/Common/Integration/FileDownload.ashx?ext=PDF&filesize=1893902&id=%21%21PVdlo2Isi26fotCVTrAv1w0JBULDyyTsIfTjhw%3D%3DxV5iaXg9uA%3D%3D&modified=2012-12-20T02%3A08%3A11Z"
+    ],
+    "license_record": "Copyright reference only; not texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P152-science-road-cottage-official.jpg.source",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://conservation-behaviour.sydney.edu.au/join-us/",
+      "https://conservation-behaviour.sydney.edu.au/wp-content/uploads/2020/05/science-road-cottage-1024x680.jpg"
+    ],
+    "license_record": "Copyright reference only; not texture or export",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P152-OSM-A10",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "OpenStreetMap contributors, ODbL",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P153-fixed-street-seam-cross-sections",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Inherited OSM and material licences retained; no new downloaded asset",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P154-NSW-roof-reference",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16829825.90166082%2C-4014342.5961435414%2C16830105.90166082%2C-4014062.5961435414&bboxSR=3857&imageSR=3857&size=1400%2C1400&format=jpg&transparent=false"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P155-University-map",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.maths.usyd.edu.au/u/yusra/FGRConf/Sibyl.pdf"
+    ],
+    "license_record": "Reference only; no image pixels used as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P155-Heritage-NSW",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://apps.environment.nsw.gov.au/dpcheritageapp/ViewHeritageItemDetails.aspx?ID=5055964"
+    ],
+    "license_record": "Reference only; paraphrased facts, no copyrighted image texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P155-Heritage-schematic",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.environment.nsw.gov.au/maritimeheritageapp/resources/Heritage/shi/505/5055964b11.jpg"
+    ],
+    "license_record": "Reference only; no redistribution as model texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P155-NSW-aerial-reuse",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "NSW web-service attribution; retain Crown/AAM/Jacobs credits",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P156-NSW-roof-completion",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16830025.27271393%2C-4013589.5597489653%2C16830225.27271393%2C-4013389.5597489653&bboxSR=3857&imageSR=3857&size=1400%2C1400&format=jpg&transparent=false"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P157-HAMS-photo",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/campuses/heritage-and-conservation-documents/Uni%20of%20Sydney_HAMS_Jan%202018.pdf"
+    ],
+    "license_record": "University copyright; reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P157-SydneyUni-garden",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.flickr.com/photos/sydneyuni/6835049272"
+    ],
+    "license_record": "CC BY-NC-SA2.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P157-CMP-context",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/dam/corporate/documents/about-us/campuses/grounds-conservation-plan-appendices.pdf"
+    ],
+    "license_record": "University copyright; reference only",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P158-NSW-engineering-glasshouse",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16830630.951080766%2C-4013991.513123555%2C16830760.951080766%2C-4013861.513123555&bboxSR=3857&imageSR=3857&size=1400%2C1400&format=jpg&transparent=false"
+    ],
+    "license_record": "Official portal item licenceInfo: No restrictions apply; saved metadata includes mixed imagery providers",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P159-NSW-ancillary-roof",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16830630.951080766%2C-4013991.513123555%2C16830760.951080766%2C-4013861.513123555&bboxSR=3857&imageSR=3857&size=1400%2C1400&format=jpg&transparent=false"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P160-Seymour-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-8636%2120190224T060728.933+GMT",
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16830714.419357847%2C-4013922.146230824%2C16830864.419357847%2C-4013772.146230824&bboxSR=3857&imageSR=3857&size=1400%2C1400&format=jpg&transparent=false",
+      "https://www.lahznimmo.com/the-seymour-centre"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P161-CCWM-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/chau-chak-wing/construction/jpw-da-a-2001-02-elevation-west.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P162-G09-exterior-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://gourmet-travelogue.doorblog.jp/archives/52308698.html",
+      "https://livedoor.blogimg.jp/drkgw2012-gourmet_travelogue/imgs/4/7/47c49009-s.jpg",
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16830481.999779534%2C-4014301.9196058656%2C16830701.999779534%2C-4014081.9196058656&bboxSR=3857&imageSR=3857&size=1500%2C1500&format=jpg&transparent=false",
+      "https://www.wardellgroup.com.au/proremedial"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P163-Residence-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://honisoit.com/2019/04/a-house-a-perk-and-a-multimillion-dollar-student-organisation/",
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16829840.929642066%2C-4013707.865587219%2C16829970.929642066%2C-4013577.865587219&bboxSR=3857&imageSR=3857&size=1100%2C1100&format=jpg&transparent=false",
+      "https://maps.sydney.edu.au/?buildingId=1005151"
+    ],
+    "license_record": "Copyright photos referenceonly, no sourcepixel modeltextures. NSW source andlicence preserved; existing projectPBR materials reused.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P164-OldLab-roof",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://apps.environment.nsw.gov.au/dpcheritageapp/ViewHeritageItemDetails.aspx?ID=2420057",
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16829604.564235732%2C-4014151.955017243%2C16829744.564235732%2C-4014011.955017243&bboxSR=3857&imageSR=3857&size=1200%2C1200&format=jpg&transparent=false",
+      "https://maps.sydney.edu.au/?buildingId=1005191",
+      "https://www.standrewscollege.edu.au/wp-content/uploads/2025/01/2025-SAC-Handbook.pdf"
+    ],
+    "license_record": "NSW bounded imagery reference only; existing licence record P160-NSW-license.json. No source image pixels used as textures.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P165-south-roof-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16830002.678421136%2C-4014282.649624895%2C16830202.678421136%2C-4014082.649624895&bboxSR=3857&imageSR=3857&size=1300%2C1300&format=jpg&transparent=false",
+      "https://moore.edu.au/single-residence-handbook",
+      "https://moore.edu.au/student-accommodation/"
+    ],
+    "license_record": "NSW bounded aerial reference only, existing P160 licence record retained; source imagery not used as textures",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P166-P167-selected-building-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://images.adsttc.com/media/images/594b/3bd9/b22e/3898/a700/0364/large_jpg/870-educational_Woods_Bagot_Plan_01-001.jpg?1498102736",
+      "https://images.adsttc.com/media/images/594b/3c0c/b22e/3898/a700/0365/large_jpg/870-educational_Woods_Bagot_Plan_03-001.jpg?1498102786",
+      "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/export?f=image&bbox=16830339.232106213%2C-4014458.813902666%2C16830599.232106213%2C-4014198.813902666&bboxSR=3857&imageSR=3857&size=1600%2C1600&format=jpg&transparent=false",
+      "https://www.woodsbagot.com/projects/university-of-sydney-business-school/"
+    ],
+    "license_record": "Reference-only architectural photos/plans and NSW imagery; no source-image pixels embedded as textures. Existing source terms remain applicable.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P168-fisher-west-ground",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P169-J03-west-entry",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Existing reference-only source terms retained; no imagery pixels used in textures.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P170-F23-ground-continuity",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Existing copyright reference-only terms retained; no photo pixels embedded as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P171-A31-north-glazing",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Existing reference-only source restrictions retained; source image pixels not embedded as textures.",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P173-D17-ground",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://graphisoft.com/content/uploads/case-studies/GRAPHISOFT_CaseStudy_fjmt.pdf"
+    ],
+    "license_record": "Existing copyright reference only; no photo pixels in material; raw source unchanged",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P174-H70-ground",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.woodsbagot.com/projects/university-of-sydney-business-school/"
+    ],
+    "license_record": "Existing reference-only photo, not embedded as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P175-Carslaw-paving",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:University_of_Sydney_School_of_Mathematics_and_Statistics.jpg",
+      "https://creativecommons.org/licenses/by-sa/4.0/",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/University_of_Sydney_School_of_Mathematics_and_Statistics.jpg"
+    ],
+    "license_record": "CC BY-SA 4.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P176-Law-ground",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.archdaily.com/109736/faculty-of-law-university-of-sydney-fjmt"
+    ],
+    "license_record": "Copyright factual visual reference only; no photo textures or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P177-Fisher-ground",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Existing University photograph, factual reference only, no photo texture or redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P178-SNH-courtyard",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Existing factual reference-only restriction retained; photograph not embedded as texture or redistributed",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P179-H03-front-ground",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:InstituteBuilding.JPG",
+      "https://commons.wikimedia.org/wiki/File:Institute_Building.jpg",
+      "https://commons.wikimedia.org/wiki/File:SydneyUniversity_InstituteBuilding_DarlingtonCentre.jpg"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P180-J03-F23-ground",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://grimshaw.global/assets/uploads/item2-1.jpg"
+    ],
+    "license_record": "Existing reference-only copyrights retained; no pixels used as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P181-F23-paving-continuity",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://grimshaw.global/assets/uploads/item2-1.jpg"
+    ],
+    "license_record": "Existing copyright reference only; no pixels used as texture",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P182-Carslaw-path-continuity",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://commons.wikimedia.org/wiki/File:University_of_Sydney_School_of_Mathematics_and_Statistics.jpg",
+      "https://creativecommons.org/licenses/by-sa/4.0/",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/University_of_Sydney_School_of_Mathematics_and_Statistics.jpg"
+    ],
+    "license_record": "CC BY-SA 4.0",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P184-J03-junction-alignment",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Existing OSM attribution and project source records retained; no new external material",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P185-J03-approach",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P186-F23-streetside-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/partnership/international-partnerships/F23_Visitor_Guide_001.pdf"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P187-H70-ground-appearance",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P189-J03-framing-and-kerbs",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P190-basic-large-form-corrections",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=PDA-57678463%2120230420T053739.021+GMT",
+      "https://www.planningportal.nsw.gov.au/major-projects/projects/ross-street-teaching-and-learning-hub"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P191-basic-roofs-glasshouses",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P192-basic-F15-and-final-campus-review",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P193-southwest-stepped-roof-row",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P194-Fisher-single-storey-kiosk",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://eplanning.cityofsydney.nsw.gov.au/Common/Integration/FileDownload.ashx?ext=PDF&filesize=1771134&id=%21%21bvNv%2FT1JizuFKrR51VXETD6xamdCNZ4oVTmThA%3D%3DB0WALKOLBw%3D%3D&modified=2014-09-15T00%3A02%3A15Z",
+      "https://usu.edu.au/food-drink/fisher/"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P195-west-college-roof-families",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P213-bounded-roof-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "P214-bounded-roof-evidence",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-272",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-273",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.google.com/maps/@-33.8871595,151.1875352,3a,75y,296.33h,90t/data=!3m8!1e1!3m6!1sCIABIhA1F_4Df-dS3uQcz8ysDl4X!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcMgPNEI0XZbz68k7PjfooDjB647XY2N1XUG70jH-gGfenYfOujqCbCBNP3Jupub1cBN8cFvb5be1oIKdZDj7iQn3ByPasU-QkpagBItostEHcX5pdu6aoYje3TYVvNUEkasX_KYqmrLnZ6v%3Dw900-h600-k-no-pi0-ya108.76678771320223-ro0-fo100!7i7680!8i3840"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-274",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=SSD-8636-MOD-2%2120200927T230521.501+GMT",
+      "https://web.aeromech.usyd.edu.au/history-chapters/C1%20Overview.pdf",
+      "https://www.levelsix.com.au/engineering-faculty-building-mechanical-services-upgrades"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-275",
+    "category": "REFERENCE_ONLY",
+    "urls": [
+      "https://www.google.com/maps/@-33.8888296,151.1941449,3a,90y,180h,105t/data=!3m7!1e1!3m5!1saMV-2WCqsQub8XQBNwLUiA!2e0!7i13312!8i6656",
+      "https://www.google.com/maps/@-33.8888303,151.1941397,3a,75y,180h,105t/data=!3m7!1e1!3m5!1sR5H9n5EGzFbwhv6-Zqk3NA!2e0!7i16384!8i8192"
+    ],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  },
+  {
+    "id": "reference-276",
+    "category": "REFERENCE_ONLY",
+    "urls": [],
+    "license_record": "Not established; excluded from redistribution",
+    "distribution": "Source documents/photos not included"
+  }
+]
