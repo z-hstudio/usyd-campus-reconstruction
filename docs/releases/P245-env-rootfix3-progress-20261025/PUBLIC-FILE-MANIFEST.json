@@ -1,0 +1,81 @@
+{
+  "school": "USYD",
+  "date": "2026-10-25",
+  "status": "Verified bounded progress edition; not completed campus delivery",
+  "file_list": [
+    {
+      "filename": "usyd-p245-env-rootfix3-progress-20261025.blend",
+      "role": "current_editable_model",
+      "license": "Community License; independently licensed components retain their terms",
+      "bytes": 1071984473,
+      "sha256": "c45e1b690965d9a703f8aa1c0c662e8bb96f010dd8329c8b43775c8b9eb8128a"
+    },
+    {
+      "filename": "usyd-p245-env-rootfix3-progress-20261025-materialfix1.glb",
+      "role": "current_portable_materialfix1",
+      "license": "Community License; independently licensed components retain their terms",
+      "bytes": 677416996,
+      "sha256": "33826b3e3ff2be4e569f871981ba240834580545b393e7a0604c7f7ec7e9be0e"
+    },
+    {
+      "filename": "preview-blend.png",
+      "role": "current_actual_preview",
+      "license": "Original model render; third-party component terms retained",
+      "bytes": 1243179,
+      "sha256": "0ea085dd0e671783cadf69a833ac9f3c6cbc51391501b30f12a5ba74685d4412"
+    },
+    {
+      "filename": "preview-glb.png",
+      "role": "current_actual_preview",
+      "license": "Original model render; third-party component terms retained",
+      "bytes": 1237016,
+      "sha256": "e70d527628d8fb715e195c1d5bb523cd13b5a181f1dfc645f023164aa1e0954e"
+    },
+    {
+      "filename": "preview-contact.png",
+      "role": "current_actual_preview",
+      "license": "Original model render; third-party component terms retained",
+      "bytes": 1198240,
+      "sha256": "9ce26b36791ddd8354d3ec893462a72b50048361c3244e507364321e547cd691"
+    },
+    {
+      "filename": "mapped-spatial-data.json.gz",
+      "role": "source_and_derived_database",
+      "license": "ODbL-1.0",
+      "bytes": 214263948,
+      "sha256": "3a474d7fe1d9a9ab6e11c89993be1b613cbaa1c6493a1c6af0af0cd0c6847c75"
+    },
+    {
+      "filename": "osm-base-derived-data.zip",
+      "role": "source_and_derived_database",
+      "license": "ODbL-1.0",
+      "bytes": 2492197,
+      "sha256": "756480139f7b25c5666d56ac93c3b6f1849863f61da677e03679dc2470cec7bb"
+    },
+    {
+      "filename": "CURRENT-ASSET-PROVENANCE.json",
+      "role": "actual_dependency_credits",
+      "license": "Provenance metadata; underlying component terms",
+      "bytes": 17788,
+      "sha256": "94d00d6e009e8a27d18d21ce41293ef35f7c20750e3d2d381a9632e27c7d11b7"
+    }
+  ],
+  "required_notice_filenames": [
+    "ASSET-SOURCES.json",
+    "ATTRIBUTION.md",
+    "BASE-TEXTURE-CREDITS.json",
+    "LICENSE.md",
+    "OSM-DATA-NOTICE.md",
+    "THIRD_PARTY_NOTICES.md"
+  ],
+  "geometry_bounds_max_delta_m": 0,
+  "missing_images": [],
+  "flicker_scope": "60 SOLID overview/approach raster frames; two public BLEND material-preview near-contact sites, three frames each",
+  "limits": [
+    "Progress model: incomplete/context geometry retained",
+    "UTS inferred/schematic local ground is not surveyed terrain",
+    "USYD image-periodic bake approximates the original world-space grass noise",
+    "No global no-flicker or every-intersection claim"
+  ],
+  "excluded": "Original failed GLB and private QA files are not this release."
+}

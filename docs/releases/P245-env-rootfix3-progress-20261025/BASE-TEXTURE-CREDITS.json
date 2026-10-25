@@ -1,0 +1,229 @@
+{
+  "sandstone_blocks_08_diff_1k.jpg": {
+    "sha256": "0cac65461ba33003b8a27b03c2b87f3393a824a9a98036c4c8de6182a1449369",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/sandstone_blocks_08",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "sandstone_blocks_08_nor_gl_1k.jpg": {
+    "sha256": "1203d5300dfc717db67220531fcdad75214d48b98d21114a155b3f01d54ab012",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/sandstone_blocks_08",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "sandstone_blocks_08_rough_1k.jpg": {
+    "sha256": "f4f3e78f08a5ca3a80509ca0af9f88cd12017ccac42b0f3b6e9f61a29d521379",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/sandstone_blocks_08",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "red_brick_rough_2k.jpg": {
+    "sha256": "b8b6b882b467647162433914b3e4db16e91852a0bdf866e6bcea4a76683ea00d",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/red_brick",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "red_brick_nor_gl_2k.jpg": {
+    "sha256": "dd2ce5b5c42f04f02fce555d53eae42503733a0a42e76ae9a18bfb9d0680da5b",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/red_brick",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "red_brick_diff_2k.jpg": {
+    "sha256": "a1ae5ba7e63026971ceaf68ebbcf8982d9c2dadde1c99996c49b8ac1160af995",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/red_brick",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "granular_concrete_rough_2k.jpg": {
+    "sha256": "a22a69325d033e2fb8751648c7b12918cc50ec3779877da6f2b080502b9e1887",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/granular_concrete",
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Michael Jenkins": "Photography"
+    }
+  },
+  "granular_concrete_diff_2k.jpg": {
+    "sha256": "37b70522207aff7a3ca7c70118b80ecc2d07a9fee983c2d544c5838e5fe8c8f5",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/granular_concrete",
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Michael Jenkins": "Photography"
+    }
+  },
+  "granular_concrete_nor_gl_2k.jpg": {
+    "sha256": "56308c513a2aaebf532a01afcc7e9c0a5a0760b76a45ca2b6706215616a1ebd4",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/granular_concrete",
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Michael Jenkins": "Photography"
+    }
+  },
+  "roof_slates_03_rough_2k.jpg": {
+    "sha256": "bd583b73aa9c496f0d8012c2d6acaa704d6acce912d7de1d5af723bbeffa9942",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/roof_slates_03",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "roof_slates_03_diff_2k.jpg": {
+    "sha256": "955eb467fc609e4509c2354f0b88755ffa137dac352b651efed95026f4a6aa5c",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/roof_slates_03",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "roof_slates_03_nor_gl_2k.jpg": {
+    "sha256": "f797ad9756e6584736831cf07f79872440a6a4811c80f9bcedd3b20b05c7596d",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/roof_slates_03",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "clean_asphalt_diff_2k.jpg": {
+    "sha256": "9d58f263b695c268e391aa39ea2f6b30ab9f36d279715cc78593a4d43368039c",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/clean_asphalt",
+    "authors": {
+      "Dimitrios Savva": "All"
+    }
+  },
+  "clean_asphalt_nor_gl_2k.jpg": {
+    "sha256": "ee6e217a75851a73ab0ce54501e787b63707e0cf8dfd7293989adf7d3e325162",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/clean_asphalt",
+    "authors": {
+      "Dimitrios Savva": "All"
+    }
+  },
+  "clean_asphalt_rough_2k.jpg": {
+    "sha256": "3b5afbcee7e27fa8908b0e191dd7eda5d4239bbfe68f9ce0b84e4f55f708d2e7",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/clean_asphalt",
+    "authors": {
+      "Dimitrios Savva": "All"
+    }
+  },
+  "concrete_pavers_02_diff_2k.jpg": {
+    "sha256": "93af9cd2a29479488a9cd3c65ced422cc43c7e15f3ea248620ccb3ddeaa5f126",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/concrete_pavers_02",
+    "authors": {
+      "Amal Kumar": "All"
+    }
+  },
+  "concrete_pavers_02_nor_gl_2k.jpg": {
+    "sha256": "6439dc11b0c660fe6ef683c97fe450d08f06889543294cd2c6ef2cb1663f49fd",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/concrete_pavers_02",
+    "authors": {
+      "Amal Kumar": "All"
+    }
+  },
+  "concrete_pavers_02_rough_2k.jpg": {
+    "sha256": "f9b3013ebc159271004d8c8e90cb9e25be95d460db1c69841ae2988e03a3581e",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/concrete_pavers_02",
+    "authors": {
+      "Amal Kumar": "All"
+    }
+  },
+  "leafy_grass_nor_gl_2k.jpg": {
+    "sha256": "df0cf0ce96e653f033e5b934d5b12995464bda027aa53bd12e329be889aa9f45",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/leafy_grass",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    }
+  },
+  "leafy_grass_rough_2k.jpg": {
+    "sha256": "34e1733bf4064b6950a575ff57e78c8b7ff71b63749eb48a49221bd65de6fb4f",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/leafy_grass",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    }
+  },
+  "leafy_grass_diff_2k.jpg": {
+    "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/leafy_grass",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    }
+  },
+  "Grass004_2K-JPG_Roughness.jpg": {
+    "sha256": "c449fdf1e779eb7be5a19c1d58ee28cc155ed0523a141b151f3cbc843c4ae2e3",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://ambientcg.com/a/Grass004",
+    "authors": "ambientCG / Lennart Demes"
+  },
+  "Grass004_2K-JPG_Color.jpg": {
+    "sha256": "735b141c8f1972e70a45879424f1238fea9f887324173097785f4ac36e67e9a3",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://ambientcg.com/a/Grass004",
+    "authors": "ambientCG / Lennart Demes"
+  },
+  "Grass004_2K-JPG_NormalGL.jpg": {
+    "sha256": "15ccad231764049d6581a52076d02bb6b627df77895cb0508e4017d8a4877fef",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://ambientcg.com/a/Grass004",
+    "authors": "ambientCG / Lennart Demes"
+  },
+  "kloppenheim_03_puresky_2k.hdr": {
+    "sha256": "cf28b37889826b2c9af5059b67110d11fff159d6cef31226ba117034e27c7287",
+    "category": "REDISTRIBUTABLE_THIRD_PARTY",
+    "license": "CC0-1.0",
+    "url": "https://polyhaven.com/a/kloppenheim_03_puresky",
+    "authors": "Greg Zaal / Jarod Guest"
+  },
+  "foliage-atlas-synthetic.png": {
+    "sha256": "2c8ad2210ba6ce8cdf62f99e45a32e48296db5f67e346159b80c0d9e96618163",
+    "category": "ORIGINAL_ZHSTUDIO",
+    "license": "z-hstudio Campus Model Community License 1.0",
+    "url": "",
+    "authors": "Manyousang Z; AI-assisted synthetic appearance asset, not a botanical photograph"
+  }
+}

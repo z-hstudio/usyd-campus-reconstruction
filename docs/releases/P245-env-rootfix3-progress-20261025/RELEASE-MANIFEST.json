@@ -1,0 +1,112 @@
+{
+  "version": "P245-env-rootfix3-progress-20261025",
+  "school": "USYD",
+  "prepared_at": "2026-10-25",
+  "release_url": "https://github.com/z-hstudio/usyd-campus-reconstruction/releases/tag/P245-env-rootfix3-progress-20261025",
+  "files": [
+    {
+      "filename": "usyd-p245-env-rootfix3-progress-20261025.blend",
+      "bytes": 1071984473,
+      "sha256": "c45e1b690965d9a703f8aa1c0c662e8bb96f010dd8329c8b43775c8b9eb8128a",
+      "role": "current_editable_model"
+    },
+    {
+      "filename": "usyd-p245-env-rootfix3-progress-20261025-materialfix1.glb",
+      "bytes": 677416996,
+      "sha256": "33826b3e3ff2be4e569f871981ba240834580545b393e7a0604c7f7ec7e9be0e",
+      "role": "current_portable_materialfix1"
+    },
+    {
+      "filename": "preview-blend.png",
+      "bytes": 1243179,
+      "sha256": "0ea085dd0e671783cadf69a833ac9f3c6cbc51391501b30f12a5ba74685d4412",
+      "role": "current_actual_preview"
+    },
+    {
+      "filename": "preview-glb.png",
+      "bytes": 1237016,
+      "sha256": "e70d527628d8fb715e195c1d5bb523cd13b5a181f1dfc645f023164aa1e0954e",
+      "role": "current_actual_preview"
+    },
+    {
+      "filename": "preview-contact.png",
+      "bytes": 1198240,
+      "sha256": "9ce26b36791ddd8354d3ec893462a72b50048361c3244e507364321e547cd691",
+      "role": "current_actual_preview"
+    },
+    {
+      "filename": "mapped-spatial-data.json.gz",
+      "bytes": 214263948,
+      "sha256": "3a474d7fe1d9a9ab6e11c89993be1b613cbaa1c6493a1c6af0af0cd0c6847c75",
+      "role": "source_and_derived_database"
+    },
+    {
+      "filename": "osm-base-derived-data.zip",
+      "bytes": 2492197,
+      "sha256": "756480139f7b25c5666d56ac93c3b6f1849863f61da677e03679dc2470cec7bb",
+      "role": "source_and_derived_database"
+    },
+    {
+      "filename": "CURRENT-ASSET-PROVENANCE.json",
+      "bytes": 17788,
+      "sha256": "94d00d6e009e8a27d18d21ce41293ef35f7c20750e3d2d381a9632e27c7d11b7",
+      "role": "actual_dependency_credits"
+    },
+    {
+      "filename": "PUBLIC-FILE-MANIFEST.json",
+      "bytes": 3165,
+      "sha256": "0d28db3f0bfd13d1c998a83016972fc410d26314b4c89a7ea6e0e2f62f5c8f03",
+      "role": "public_file_manifest"
+    },
+    {
+      "filename": "ASSET-SOURCES.json",
+      "bytes": 18271,
+      "sha256": "9e1135c944a82a349a6536fc6233b8bdb63d40d18731d15f89da7f61c432d901",
+      "role": "license_and_provenance"
+    },
+    {
+      "filename": "ATTRIBUTION.md",
+      "bytes": 1175,
+      "sha256": "79db60dc2bc452d18e971c26d0cd4663c786c3fc281aac954c90fff68028c14a",
+      "role": "license_and_provenance"
+    },
+    {
+      "filename": "BASE-TEXTURE-CREDITS.json",
+      "bytes": 7936,
+      "sha256": "d281df62f70b6e80ad07f7e11beba68d29cf24643e3b7449143369310e31de4a",
+      "role": "license_and_provenance"
+    },
+    {
+      "filename": "LICENSE-AND-NOTICES.zip",
+      "bytes": 11393,
+      "sha256": "ec2ea4c86fa124c60c7936156f7a9d33d09be6431c8b0879a6dd04bb9b09b88f",
+      "role": "license_and_provenance"
+    },
+    {
+      "filename": "LICENSE.md",
+      "bytes": 6924,
+      "sha256": "1efbb3f230cbc7ae73500cdf0a070914df3f4d345f729c2d29bc5b8b69d3a361",
+      "role": "license_and_provenance"
+    },
+    {
+      "filename": "OSM-DATA-NOTICE.md",
+      "bytes": 513,
+      "sha256": "c7a5c54a2fd58d4fe166d349b94cf8c1345b324f0c7fed091e74676c2c40bd26",
+      "role": "license_and_provenance"
+    },
+    {
+      "filename": "THIRD_PARTY_NOTICES.md",
+      "bytes": 3189,
+      "sha256": "3821ecbf25a51d3bb0a2c7ddfc8c901ed65fc51b95bbf5897914b71f27e28441",
+      "role": "license_and_provenance"
+    },
+    {
+      "filename": "RELEASE-NOTES.md",
+      "bytes": 2375,
+      "sha256": "b20c61e5b7b9fcf402aad67e2b0c902a423263cb2b4a9e3b1aef7756b039fa8d",
+      "role": "release_notes"
+    }
+  ],
+  "scope": "P245 architecture with the separate rootfix3 environment pass; eight Jacaranda tree instances retained.",
+  "validation_scope": "See RELEASE-NOTES.md; bounded progress snapshot."
+}
