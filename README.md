@@ -1,5 +1,17 @@
 # University of Sydney Campus 3D Reconstruction
 
+## Latest progress snapshot — 25 October 2026
+
+[P245-env-rootfix3-progress-20261025: files and previews](https://github.com/z-hstudio/usyd-campus-reconstruction/releases/tag/P245-env-rootfix3-progress-20261025) · [Changes and checks](docs/releases/P245-env-rootfix3-progress-20261025/RELEASE-NOTES.md)
+
+This progress prerelease includes the checked Blender scene, a fresh GLB with corrected grass colours, current mapped data and source notices. It remains a partial personal reconstruction. Earlier stable releases are preserved below; the linked release notes explain the sampled checks and remaining limits.
+
+![USYD progress snapshot, Blender overview](previews/releases/P245-env-rootfix3-progress-20261025/preview-blend.png)
+
+Model by Manyousang Z / z-hstudio. Map data © OpenStreetMap contributors. See the release's source notices for the full credits.
+
+## Earlier Community Edition information
+
 **Camperdown / Darlington — Public Community Edition**  
 **Manyousang Z / z-hstudio** · Creator: Manyousang Z（漫游桑 Z） · Author: Ziheng Huang（黄子恒）
 
